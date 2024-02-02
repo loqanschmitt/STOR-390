@@ -8,6 +8,6 @@ x <- "Hello World"
 x
 
 #loop to reiterate statement
-for (i in 1:5){
+for (i in 1:7){
   print(x)
 }
